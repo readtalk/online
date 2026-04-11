@@ -112,7 +112,7 @@ function App() {
 					autoComplete="off"
 				/>
 				<button type="submit" className="send-message two columns">
-					👁️‍🗨️
+					➤
 				</button>
 			</form>
 		</div>
