@@ -97,3 +97,10 @@ html {
 	fill: initial !important;
 	stroke: initial !important;
 }
+body {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+#root {
+  background: rgba(0, 0, 0, 0.02);
+}
